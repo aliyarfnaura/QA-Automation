@@ -3,7 +3,7 @@
 Proyek ini berisi rangkaian pengujian otomatis (*automated testing*) untuk aplikasi web e-commerce dummy, **Swag Labs (Sauce Demo)**, menggunakan Python, Pytest, dan Selenium WebDriver.
 
 ## Deskripsi Proyek
-Tujuan utama proyek ini adalah melakukan *Regression Testing* untuk memastikan fungsionalitas aplikasi tetap stabil setelah adanya perubahan atau penambahan fitur. Fokus pengujian mencakup alur *login*, manajemen keranjang belanja, proses *checkout*, hingga validasi pesan kesalahan pada skenario negatif.
+Fokus pengujian mencakup alur *login*, manajemen keranjang belanja, proses *checkout*, hingga validasi pesan kesalahan pada skenario negatif.
 
 ## Tech Stack
 * **Language:** Python 3.11
